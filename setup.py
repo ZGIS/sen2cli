@@ -17,7 +17,7 @@ REQUIRES_PYTHON = '>=3.8.0'
 VERSION = None #will be filled from __version__.py '0.1.0'
 
 REQUIRED = [
-  'Click~=8.0.1',
+  'Click~=8.1.3',
   'jsonapi_client~=0.9.7',
   'requests_oauthlib~=1.3.0',
   'oauthlib~=3.0.1'
